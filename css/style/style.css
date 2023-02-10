@@ -1,0 +1,15 @@
+*{
+	margin:0;
+	padding:0; 
+	box-sizing:border-box;
+	background-color:#ecf0f3;
+	outline:none;
+}
+.container{
+	width:85%;
+	margin:auto;
+}
+body{
+	background-color:yellow;
+	height:100vh;
+}
